@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar-main {
+  border: 2px solid red;
+  display: flex;
+  width: 1200px;
+}
+
+/* popular section starts here */
+.card {
+  background-color: red;
+  min-height: 200px;
+
+}
+.card img {
+  /* width: 100%; */
+}
+/* popular section starts here */
